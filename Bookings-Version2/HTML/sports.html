@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/sports.css">
+    <title>BookMe.com</title>
+</head>
+<body>
+    <header>
+        <h1>BookMe.com</h1>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="movies.html">Movies</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="sports.html">Sports</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="movies" class="search-section">
+            <label for="category">Category:</label>
+            <select id="category">
+                <option value="all">All</option>
+            </select>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date">
+
+            <label for="price">Price:</label>
+            <input type="number" id="price" placeholder="Enter max price">
+
+            <button onclick="searchSports()">Search</button>
+        </section>
+        <section id="sport-results" class="sport-results-container">
+            
+            <p id="loading-message">Loading...</p>
+            <!-- Movie results will be dynamically added here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 BookMe.com</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="../JS/sports.js"></script>
+</body>
+</html>

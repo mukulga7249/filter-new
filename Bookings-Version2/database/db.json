@@ -1,0 +1,608 @@
+{
+  "movies": [
+    {
+      "title": "Jawan",
+      "category": "Action",
+      "language": "Hindi",
+      "artist": "Shah Rukh Khan",
+      "cast": [
+        {
+          "name": "Sharukh Khan",
+          "image": "../images/cast/srk.jpg"
+        },
+        {
+          "name": "Deepika Padukone",
+          "image": "../images/cast/deepika.jpg"
+        },
+        {
+          "name": "Nayanthara",
+          "image": "../images/cast/nayanthara.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/movies/Jawan.jpg"
+    },
+    {
+      "title": "Tiger 3",
+      "category": "Action",
+      "language": "Hindi",
+      "artist": "Salman",
+      "cast": [
+        {
+          "name": "Salman Khan",
+          "image": "../images/cast/salman.jpg"
+        },
+        {
+          "name": "Katrina Kaif",
+          "image": "../images/cast/katrina.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/movies/Tiger.jpg"
+    },
+    {
+      "title": "Pathaan",
+      "category": "Action",
+      "language": "Hindi",
+      "artist": "SRK",
+      "cast": [
+        {
+          "name": "Sharukh Khan",
+          "image": "../images/cast/srk.jpg"
+        },
+        {
+          "name": "Deepika Padukone",
+          "image": "../images/cast/deepika.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/Pathaan.jpg"
+    },
+    {
+      "title": "Dabangg 3",
+      "category": "Action",
+      "language": "Hindi",
+      "artist": "Salman",
+      "cast": [
+        {
+          "name": "Salman Khan",
+          "image": "../images/cast/salman.jpg"
+        },
+        {
+          "name": "Sonakshi Sinha",
+          "image": "../images/cast/sonakshi.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/Dabangg3.jpg"
+    },
+    {
+      "title": "Salaar",
+      "category": "Action",
+      "language": "Hindi",
+      "artist": "Prabhas",
+      "cast": [
+        {
+          "name": "Prabhas",
+          "image": "../images/cast/prabhas.jpg"
+        },
+        {
+          "name": "Shruti Hasan",
+          "image": "../images/cast/shruti.jpg"
+        },
+        {
+          "name": "PrithviRaj Sukumaran",
+          "image": "../images/cast/prithvi.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/Salaar2.jpg"
+    },
+    {
+      "title": "Runway 34",
+      "category": "Thriller",
+      "language": "Hindi",
+      "artist": "Amitabh Bachchan",
+      "cast": [
+        {
+          "name": "Amitabh Bachchan",
+          "image": "../images/cast/amitabh.jpg"
+        },
+        {
+          "name": "Ajay Devgn",
+          "image": "../images/cast/ajay.jpg"
+        },
+        {
+          "name": "Boman Irani",
+          "image": "../images/cast/boman.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 300,
+      "img": "../images/movies/Runway34.jpg"
+    },
+    {
+      "title": "Jhund",
+      "category": "Biopic",
+      "language": "Hindi",
+      "artist": "Amitabh Bachchan",
+      "cast": [
+        {
+          "name": "Amitabh Bachchan",
+          "image": "../images/cast/amitabh.jpg"
+        },
+        {
+          "name": "Akash Thosar",
+          "image": "../images/cast/akash.jpg"
+        },
+        {
+          "name": "Rinku Rajguru",
+          "image": "../images/cast/rinku.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 300,
+      "img": "../images/movies/Jhund.jpg"
+    },
+    {
+      "title": "Gold",
+      "category": "Biopic",
+      "language": "English",
+      "artist": "Akshay Kumar",
+      "cast": [
+        {
+          "name": "Akshay Kumar",
+          "image": "../images/cast/akshay.jpg"
+        },
+        {
+          "name": "Kunal Kapoor",
+          "image": "../images/cast/kunal.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/movies/Gold.jpg"
+    },
+    {
+      "title": "Mission Mangal",
+      "category": "Comedy",
+      "language": "Hindi",
+      "artist": "Akshay Kumar",
+      "cast": [
+        {
+          "name": "Akshay Kumar",
+          "image": "../images/cast/akshay.jpg"
+        },
+        {
+          "name": "Vidya Balan",
+          "image": "../images/cast/vidya.jpg"
+        },
+        {
+          "name": "Taapsee Pannu",
+          "image": "../images/cast/taapsee.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/MissionMangal.jpg"
+    },
+    {
+      "title": "War",
+      "category": "Action",
+      "language": "Hindi",
+      "artist": "Hrithik Roshan",
+      "cast": [
+        {
+          "name": "Hrithik Roshan",
+          "image": "../images/cast/hrithik.jpg"
+        },
+        {
+          "name": "Tiger Shroff",
+          "image": "../images/cast/tiger.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/War.jpg"
+    },
+    {
+      "title": "Game Ek Rahasya",
+      "category": "Thriller",
+      "language": "Marathi",
+      "artist": "Omkar Pawar",
+      "cast": [
+        {
+          "name": "Omkar Pawar",
+          "image": "../images/cast/omkar.jpg"
+        },
+        {
+          "name": "Atharava Dalvi",
+          "image": "../images/cast/atharva.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/marathi.jpg"
+    },
+    {
+      "title": "Avengers Endgame",
+      "category": "Action",
+      "language": "English",
+      "artist": "Robert Downey Jr",
+      "cast": [
+        {
+          "name": "Robert Downey Jr",
+          "image": "../images/cast/robert.jpg"
+        },
+        {
+          "name": "Chris Evans",
+          "image": "../images/cast/chris.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/avengers.jpeg"
+    },
+    {
+      "title": "Martin",
+      "category": "Thriller",
+      "language": "Marathi",
+      "artist": "Dhruva Sarja",
+      "cast": [
+        {
+          "name": "Dhruva Sarja",
+          "image": "../images/cast/dhruva.jpg"
+        },
+        {
+          "name": "Vaibhavi Shandilya",
+          "image": "../images/cast/vaibhavi.jpg"
+        }
+      ],
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/movies/martin.jpg"
+    }
+  ],
+  "castDetails": [
+    {
+      "name": "Sharukh Khan",
+      "alsoKnownAs": "SRK, Shahrukh Khan",
+      "occupation": "Actor • Producer • Special Appearances • Voice Cast",
+      "born": "November 2, 1965",
+      "Birthplace": "New Delhi, Delhi, India",
+      "Spouse": "Gauri Khan",
+      "image": "../images/cast/srk.jpg"
+    },
+    {
+      "name": "Deepika Padukone",
+      "alsoKnownAs": "Deepi",
+      "occupation": "Actor • Producer • Special Appearances • Voice Cast",
+      "born": "January 5, 1986",
+      "Birthplace": "Copenhagen, Denmark",
+      "Spouse": "Ranveer Singh",
+      "image": "../images/cast/deepika.jpg"
+    },
+    {
+      "name": "Nayanthara",
+      "alsoKnownAs": "Diana Mariam Kurien, Nayan, Nayantra",
+      "occupation": "Actor • Producer • Special Appearances",
+      "born": "November 18, 1984",
+      "Birthplace": "Bangalore, Karnataka, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/nayanthara.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "alsoKnownAs": "Bhaijaan, Sallu Bhai",
+      "occupation": "Actor • Special Appearances • Producer • Writer • Singer • Narrator • Voice Cast • Screenplay",
+      "born": "December 27, 1965",
+      "Birthplace": "Indore, Madhya Pradesh, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/salman.jpg"
+    },
+    {
+      "name": "Katrina Kaif",
+      "alsoKnownAs": "Kate Turquotte, Kat, Katty Kaif, Katz",
+      "occupation": "Actor • Special Appearances • Dancer",
+      "born": "July 16, 1983",
+      "Birthplace": "Hong Kong",
+      "Spouse": "Vicky Kaushal",
+      "image": "../images/cast/katrina.jpg"
+    },
+    {
+      "name": "Sonakshi Sinha",
+      "alsoKnownAs": "Sona",
+      "occupation": "Actor • Special Appearances",
+      "born": "June 2, 1987",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/sonakshi.jpg"
+    },
+    {
+      "name": "Prabhas",
+      "alsoKnownAs": "Prabhas Raju Uppalapati",
+      "occupation": "Actor • Special Appearances • Voice Cast",
+      "born": "October 23, 1979",
+      "Birthplace": "Chennai, Tamil Nadu, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/prabhas.jpg"
+    },
+    {
+      "name": "Shruti Hasan",
+      "alsoKnownAs": "Shruti Hasan",
+      "occupation": "Actor • Special Appearances • Music • Producer",
+      "born": "January 28, 1986",
+      "Birthplace": "Chennai, Tamil Nadu, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/shruti.jpg"
+    },
+    {
+      "name": "PrithviRaj Sukumaran",
+      "alsoKnownAs": "Raju",
+      "occupation": "Actor • Producer • Narrator • Director • Special Appearances",
+      "born": "October 16, 1982",
+      "Birthplace": "Thiruvananthapuram, Kerala, India",
+      "Spouse": "Supriya Menon",
+      "image": "../images/cast/prithvi.jpg"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "alsoKnownAs": "Big B, Shahenshah, Munna, Angry Young Man",
+      "occupation": "Actor • Singer • Narrator • Special Appearances • Producer • Voice Cast",
+      "born": "October 11, 1942",
+      "Birthplace": "Allahabad, Uttar Pradesh, India",
+      "Spouse": "Jaya Bachchan",
+      "image": "../images/cast/amitabh.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "alsoKnownAs": "Vishal Veeru Devgan",
+      "occupation": "Actor • Producer • Assistant Director • Director • Writer • Special Appearances • Voice Cast • Narrator",
+      "born": "April 2, 1969",
+      "Birthplace": "New Delhi, Delhi, India",
+      "Spouse": "Kajol",
+      "image": "../images/cast/ajay.jpg"
+    },
+    {
+      "name": "Boman Irani",
+      "alsoKnownAs": "Boman Irani",
+      "occupation": "Actor • Voice Cast",
+      "born": "December 2, 1959",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Zenobia Irani",
+      "image": "../images/cast/boman.jpg"
+    },
+    {
+      "name": "Akash Thosar",
+      "alsoKnownAs": "Akash Thosar",
+      "occupation": "Actor",
+      "born": "February 23, 1993",
+      "Birthplace": "Karmala, Maharashtra, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/akash.jpg"
+    },
+    {
+      "name": "Rinku Rajguru",
+      "alsoKnownAs": "Rinku Rajguru",
+      "occupation": "Actor",
+      "born": "June 3, 2001",
+      "Birthplace": "Maharashtra, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/rinku.jpg"
+    },
+    {
+      "name": "Akshay Kumar",
+      "alsoKnownAs": "Khiladi of Bollywood, Akki, Mac, Rajiv Hari Om Bhatia",
+      "occupation": "Actor • Special Appearances • Producer • Voice Cast • Executive Producer",
+      "born": "September 9, 1967",
+      "Birthplace": "Punjab, India",
+      "Spouse": "Twinkle Khanna",
+      "image": "../images/cast/akshay.jpg"
+    },
+    {
+      "name": "Kunal Kapoor",
+      "alsoKnownAs": "Kunnu",
+      "occupation": "Actor • Executive Producer • Voice Cast",
+      "born": "October 18, 1977",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Naina Bachan",
+      "image": "../images/cast/kunal.jpg"
+    },
+    {
+      "name": "Vidya Balan",
+      "alsoKnownAs": "Vidhi, Vidya P. Balan",
+      "occupation": "Actor • Special Appearances • Voice Cast",
+      "born": "January 1, 1978",
+      "Birthplace": "Palakkad, Kerala, India",
+      "Spouse": "Siddharth Roy Kapur",
+      "image": "../images/cast/vidya.jpg"
+    },
+    {
+      "name": "Taapsee Pannu",
+      "alsoKnownAs": "Taapsee Pannu",
+      "occupation": "Actor • Producer",
+      "born": "August 1, 1987",
+      "Birthplace": "New Delhi, Delhi, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/taapsee.jpg"
+    },
+    {
+      "name": "Hrithik Roshan",
+      "alsoKnownAs": "Hrithik Rakesh Nagrath",
+      "occupation": "Actor • Special Appearances • Assistant Director",
+      "born": "January 10, 1974",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Suzanne Khan",
+      "image": "../images/cast/hrithik.jpg"
+    },
+    {
+      "name": "Tiger Shroff",
+      "alsoKnownAs": "Jai Hemant Shroff",
+      "occupation": "Actor",
+      "born": "March 2, 1990",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/tiger.jpg"
+    },
+    {
+      "name": "Robert Downey Jr",
+      "alsoKnownAs": "Robert Downey Jr",
+      "occupation": "Actor",
+      "born": "April 4, 1965",
+      "Birthplace": "New York, United States Of America",
+      "Spouse": "Susan Downey, Deborah Falconer",
+      "image": "../images/cast/robert.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "alsoKnownAs": "Christopher Robert Evans",
+      "occupation": "Actor • Voice Cast",
+      "born": "June 13, 1981",
+      "Birthplace": "Boston, Massachusetts, United States Of America",
+      "Spouse": "Alba Baptista",
+      "image": "../images/cast/chris.jpg"
+    },
+    {
+      "name": "Dhruva Sarja",
+      "alsoKnownAs": "Dhruva Sarja",
+      "occupation": "Actor",
+      "born": "October 6, 1988",
+      "Birthplace": "Bengaluru, Karnataka, India",
+      "Spouse": "Prerana Shankar",
+      "image": "../images/cast/dhruva.jpg"
+    },
+    {
+      "name": "Vaibhavi Shandilya",
+      "alsoKnownAs": "Vaibhavi Shandilya",
+      "occupation": "Actor",
+      "born": "May 27, 1989",
+      "Birthplace": "Chennai, Tamil Nadu, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/vaibhavi.jpg"
+    },
+    {
+      "name": "Omkar Pawar",
+      "alsoKnownAs": "Omkar Pawar",
+      "occupation": "Actor",
+      "born": "May 27, 1989",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/omkar.jpg"
+    },
+    {
+      "name": "Atharava Dalvi",
+      "alsoKnownAs": "Atharava Dalvi",
+      "occupation": "Actor",
+      "born": "May 27, 1989",
+      "Birthplace": "Mumbai, Maharashtra, India",
+      "Spouse": "Unmarried",
+      "image": "../images/cast/atharva.jpg"
+    }
+  ],
+  "events": [
+    {
+      "title": "New Year Celebration",
+      "category": "Celebration",
+      "artist": "Salman",
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/events/Comedy.jpg"
+    },
+    {
+      "title": "Open Mic",
+      "category": "Comedy",
+      "artist": "Akash Gupta",
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/events/openmic.jpg"
+    },
+    {
+      "title": "Soduku",
+      "category": "Contest",
+      "artist": "NA",
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/events/soduku.jpg"
+    },
+    {
+      "title": "BollyNight",
+      "category": "Entertainment",
+      "artist": "Arijit Singh",
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/events/BollyNight.jpg"
+    },
+    {
+      "title": "Nothing Makes Sense",
+      "category": "Comedy",
+      "artist": "Varun Grover",
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/events/nothing.jpg"
+    },
+    {
+      "title": "StandUp Comedy Night",
+      "category": "Comedy",
+      "artist": "Kapil Sharma",
+      "date": "2024-01-06",
+      "price": 300,
+      "img": "../images/events/Comedy.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "title": "India v Australia 1st ODI",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/sports/indvaus.jpg"
+    },
+    {
+      "title": "English Premier League",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 150,
+      "img": "../images/sports/epl.jpg"
+    },
+    {
+      "title": "Australian Open Tennis",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/sports/tennisao.jpg"
+    },
+    {
+      "title": "Indian Super League KB vs JFC",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/sports/kbvjfc.jpg"
+    },
+    {
+      "title": "Badminton Tournament",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 200,
+      "img": "../images/sports/badminton.jpg"
+    },
+    {
+      "title": "India Virtual Marathon",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 300,
+      "img": "../images/sports/marathon.jpg"
+    },
+    {
+      "title": "Spanish Football League",
+      "category": "Sports",
+      "date": "2024-01-06",
+      "price": 300,
+      "img": "../images/sports/barcavrm.jpg"
+    }
+  ]
+}

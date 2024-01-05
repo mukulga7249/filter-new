@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/styles.css">
+    <title>BookMe.com</title>
+</head>
+<body>
+    <header>
+        <h1>BookMe.com</h1>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="#movies" id="movie-tab">Movies</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="sports.html">Sports</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="movies" class="search-section">
+            <label for="category">Category:</label>
+            <select id="category">
+                <option value="all">All</option>
+                <option value="Action">Action</option>
+                <option value="Thriller">Thriller</option>
+                <option value="Biopic">Biopic</option>
+                <option value="Comedy">Comedy</option>
+            </select>
+            <label for="language">Language:</label>
+            <select id="language">
+                <option value="all">All</option>
+                <option value="Hindi">Hindi</option>
+                <option value="English">English</option>
+                <option value="Marathi">Marathi</option>
+            </select>
+
+            <label for="artist">Artist:</label>
+            <input type="text" id="artist" placeholder="Enter artist name">
+
+            <label for="date">Date:</label>
+            <input type="date" id="date">
+
+            <label for="price">Price:</label>
+            <input type="number" id="price" placeholder="Enter max price">
+
+            <button onclick="searchMovies()">Search</button>
+        </section>
+
+        <section id="movie-results" class="movie-results-container">
+            
+            <p id="loading-message">Loading...</p>
+            <!-- Movie results will be dynamically added here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 BookMe.com</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="../JS/movies.js"></script>
+</body>
+</html>
